@@ -6,7 +6,7 @@
 
 ## 💪 Skills
 
-### webframewo
+### Teck stacks
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?&style=for-the-badge&logo=vue&logoColor=white)
