@@ -9,13 +9,13 @@
 ### Teck stacks
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?&style=for-the-badge&logo=vue&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 
 
 ### Tools
-![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=aws&logoColor=white)
+![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?&style=for-the-badge&logo=Nginx&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white)
