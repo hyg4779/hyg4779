@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyg8702)](https://solved.ac/hyg8702/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyg8702)](https://solved.ac/hyg8702)
+
 
 
 <!--
