@@ -20,7 +20,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?&style=for-the-badge&logo=Nginx&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)
-![Mettermost](https://img.shields.io/badge/Mettermost-0058CC.svg?&style=for-the-badge&logo=Mettermost&logoColor=white)
+![Mettermost](https://img.shields.io/badge/Mettermost-0058CC.svg?&style=for-the-badge&logo=Mattermost&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white)
 
 
