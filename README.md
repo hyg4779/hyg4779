@@ -29,6 +29,10 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)
 ![Mettermost](https://img.shields.io/badge/Mettermost-0058CC.svg?&style=for-the-badge&logo=Mattermost&logoColor=white)
 
+![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC.svg?&style=for-the-badge&logo=Mattermost&logoColor=white)
+![Pycharm](https://img.shields.io/badge/Pycharm-000000.svg?&style=for-the-badge&logo=Mattermost&logoColor=white)
+
+
 ### DB
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
